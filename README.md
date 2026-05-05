@@ -1,3 +1,4 @@
+Giao thức nào sau đây được Cisco sử dụng để khám phá thiết bị lân cận? (CDP)
 Dịch vụ nào sau đây cần thiết để cho dịch vụ AD hoạt động, Để phân giải tên miền (DNS)
 Dịch vụ nào trong Windows Server cho phép lưu trữ và quản lý trang web? (IIS)
 Lệnh nào hiển thị thông tin địa chỉ IP của server?   (ipconfig)
